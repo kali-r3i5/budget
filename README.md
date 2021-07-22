@@ -5,12 +5,12 @@
 
 <p align="center"><font size="3">
 A proposta dessa atividade
-- [x]  Se sentir mais confortável na utilização de conceitos do React (componentes, estado e props);
-- [x]  Entender como estilizar os componentes que renderizamos em tela com o Styled Components (CSS);
-- [x]  Entender a necessidade do uso da ContextAPI e compartilhamento de informações entre componentes.
-- [x]  Estar mais confortável com a utilização de API's externas. (Ex: back-end fake em MirageJS);
-- [x]  Entender como fazer a utilização de variáveis ou estados do React para renderizar dados dinâmicamente na tela (JSX).
-- [x]  Se sentir mais confortável com o uso do TypeScript;
+- [X]  Se sentir mais confortável na utilização de conceitos do React (componentes, estado e props);
+- [X]  Entender como estilizar os componentes que renderizamos em tela com o Styled Components (CSS);
+- [X]  Entender a necessidade do uso da ContextAPI e compartilhamento de informações entre componentes.
+- [X]  Estar mais confortável com a utilização de API's externas. (Ex: back-end fake em MirageJS);
+- [X]  Entender como fazer a utilização de variáveis ou estados do React para renderizar dados dinâmicamente na tela (JSX).
+- [X]  Se sentir mais confortável com o uso do TypeScript;
 
 <div align="center"><a name="menu"></a>
   <h4>
